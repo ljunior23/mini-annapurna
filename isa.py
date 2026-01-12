@@ -1,7 +1,3 @@
-"""
-Mini-Annapurna ISA Definition
-32-bit instruction format: | 2b opcode | 10b dst | 10b src0 | 10b src1 |
-"""
 from enum import IntEnum
 from typing import NamedTuple
 
