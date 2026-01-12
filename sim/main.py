@@ -1,6 +1,3 @@
-"""
-Simulator main entry point
-"""
 import argparse
 import pickle
 import sys

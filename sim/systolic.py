@@ -1,6 +1,3 @@
-"""
-Systolic array: 256×256 grid with 2-cycle pipeline latency
-"""
 import numpy as np
 from typing import Tuple
 
