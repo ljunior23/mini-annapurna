@@ -169,10 +169,6 @@ The codebase includes hooks for advanced features:
 
 This 4-week project mirrors Annapurna's pre-RTL exploration workflow, giving you instant vocabulary alignment for interviews.
 
-## Résumé Bullet
-
-> Designed & implemented a Python-based cycle-accurate simulator and PyTorch FX-to-ISA compiler for a 256×256 systolic AI accelerator; achieved 84% MAC utilization on 2k×2k GEMM and published open-source reference stack.
-
 ## Contributing
 
 MIT License – contributions welcome!
