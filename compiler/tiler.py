@@ -1,3 +1,6 @@
+"""
+Tiler: Split large matrix multiply into cache-friendly tiles
+"""
 from typing import List, Tuple, NamedTuple
 
 
